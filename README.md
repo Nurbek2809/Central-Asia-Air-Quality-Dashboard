@@ -11,12 +11,14 @@ Identify most polluted and cleanest areas
 Explore seasonal air quality variations
 Monitor year-over-year pollution changes
 Provide interactive analytical reporting
+
 🛠️ Tools & Technologies
 Python — Data cleaning & preprocessing
 Pandas / NumPy — Data transformation
 Power BI — Data modeling & dashboard development
 Power Query (ETL) — Data preparation
 DAX — KPI calculations and metrics
+
 🔄 Data Workflow
 Raw air quality dataset collected
 Data cleaned and formatted using Python
@@ -25,6 +27,7 @@ Data loaded into Power BI
 Data model created
 KPIs and measures built using DAX
 Interactive dashboard designed
+
 📈 Dashboard Features
 ✔ Air Quality KPIs (Average PM2.5, WHO Compliance, YoY Change)
 ✔ Regional pollution comparison
@@ -32,6 +35,7 @@ Interactive dashboard designed
 ✔ AQI category distribution
 ✔ Interactive filtering (Region / Season / Time)
 ✔ Trend analysis by country and year
+
 🔍 Key Insights
 Certain regions consistently show higher PM2.5 levels.
 Winter seasons demonstrate significantly worse air quality.
